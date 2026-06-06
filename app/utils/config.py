@@ -1,0 +1,5 @@
+OLLAMA_MODEL = "llama3"
+CHROMA_DB_PATH = "chroma_db"
+UPLOAD_FOLDER = "uploads"
+EMBEDDING_MODEL = "all-MiniLM-L6-v2"
+MAX_FILE_SIZE = 10 * 1024 * 1024
