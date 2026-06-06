@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# Uploads
+uploads/
+
+# Vector database
+chroma_db/
+db/
+vector_store/
+
+# Logs
+*.log
